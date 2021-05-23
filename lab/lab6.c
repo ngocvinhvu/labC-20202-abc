@@ -38,7 +38,7 @@ float sd(float *M, int N) {
 }
 
 void pair(float *X, int N) {
-    
+
 }
 
 int main() {
